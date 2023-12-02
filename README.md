@@ -3,7 +3,7 @@
 # Introduction
 This project is an airline ticket booking system. 
 
-# pre -equisite
+# pre-requisite
 mysql version
 XAMPP
 VSCODE or Editor
